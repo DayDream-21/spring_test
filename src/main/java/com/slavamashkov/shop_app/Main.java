@@ -1,4 +1,4 @@
-package com.slavamashkov;
+package com.slavamashkov.shop_app;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

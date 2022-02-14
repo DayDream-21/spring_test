@@ -1,4 +1,4 @@
-package com.slavamashkov;
+package com.slavamashkov.shop_app;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
