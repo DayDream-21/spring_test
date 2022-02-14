@@ -10,10 +10,7 @@ public class Main {
             //TestBean testBean = context.getBean("testBean", TestBean.class);
             UserDAO userDAO = context.getBean("userDAO", UserDAO.class);
 
-            System.out.println(userDAO.getAllUsers());
-            userDAO.setX(13);
-            userDAO.deleteUser();
-            userDAO.updateUser();
+            userDAO.addUser();
         }
 
 
